@@ -21,6 +21,9 @@ The below code review shows that I have the ability to use interaction to create
 
 <a href="https://github.com/EEngvall/Python-Auth-System">Github Repo - Artifacts 1&2</a>
 
+<a href="/Python-Auth-System-master" download>Download Artifact</a>
+
+
 1. **Briefly describe the artifact. What is it? When was it created?**
 
    The artifact that is being submitted in Milestone 2 is the zoo authentication system from IT-145. This artifact focuses on verifying user input against provided credentials and displaying a given text file based on the role the user is associated with. This artifact was originally created during one of the first terms I participated in here at SNHU and I feel it demonstrates some of the progress I’ve made as a developer throughout this program.
@@ -171,6 +174,9 @@ The below code review shows that I have the ability to use interaction to create
 
 <a href="https://github.com/EEngvall/Python-Auth-System">Github Repo - Artifacts 1&2</a>
 
+<a href="/Python-Auth-System-master" download>Download Artifact</a>
+
+
 
 1. **Briefly describe the artifact. What is it? When was it created?**
 
@@ -219,7 +225,7 @@ The below code review shows that I have the ability to use interaction to create
    ```
 
    New JSON formatted file that contains credential information as objects, password strings only included for testing and demonstration purposes.  The final JSON file would only include the hashed password. 
-   
+
    ```json
 
       {
@@ -275,7 +281,11 @@ The below code review shows that I have the ability to use interaction to create
 ### **Artifact 3: Databases**
 
 <a href="https://github.com/EEngvall/rescue-app">Github Repo - Artifact 3</a>
+
 <a href="https://glacial-anchorage-77889.herokuapp.com/">Live Version - Artifact 3</a>
+
+<a href="/rescue-app-master" download>Download Artifact</a>
+
 
 
 
