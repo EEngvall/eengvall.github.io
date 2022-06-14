@@ -21,7 +21,7 @@ The below code review shows that I have the ability to use interaction to create
 
 <a href="https://github.com/EEngvall/Python-Auth-System">Github Repo - Artifacts 1&2</a>
 
-<a href="/Python-Auth-System-master" download>Download Artifact</a>
+<a href="/Python-Auth-System-master.zip" download>Download Artifact</a>
 
 
 1. **Briefly describe the artifact. What is it? When was it created?**
@@ -174,7 +174,7 @@ The below code review shows that I have the ability to use interaction to create
 
 <a href="https://github.com/EEngvall/Python-Auth-System">Github Repo - Artifacts 1&2</a>
 
-<a href="/Python-Auth-System-master" download>Download Artifact</a>
+<a href="/Python-Auth-System-master.zip" download>Download Artifact</a>
 
 
 
@@ -284,7 +284,7 @@ The below code review shows that I have the ability to use interaction to create
 
 <a href="https://glacial-anchorage-77889.herokuapp.com/">Live Version - Artifact 3</a>
 
-<a href="/rescue-app-master" download>Download Artifact</a>
+<a href="/rescue-app-master.zip" download>Download Artifact</a>
 
 
 
