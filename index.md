@@ -7,9 +7,11 @@
 <p>   Throughout my experience at SNHU I’ve worked with a wide variety of both instructors and other students, collaborating and discussing both current and future endeavors. Being able to work with such a wide variety of peers has allowed me to better understand not only differing viewpoints but be open to other solutions to the same problems I’ve faced. By opening myself up to other opinions and viewpoints I’ve made myself stronger not only as a developer but also as an overall employee. I’m able to not let my own opinion cloud my judgment and instead look to others to see where I may be faltering.</p>
 During my coursework I was also brought onto a project with my current employer to help deploy a new customer facing web app. We collaborated with Oracle as they were the provider of the base software we would be using. By working with a large company such as Oracle I was able to see how a team works on a day-to-day basis and the workflow associated with such a large project. I was able to use not only my coursework from throughout the SNHU CS program, but my experience working on a real-life team to help me create this ePortfolio and highlight what makes me a good candidate for employment.
 <p>   The projects I’ve included in the ePortfolio include a user authentication system that was originally created during IT-145. I utilized this project to help establish my understanding of not only data structures and algorithms but my ability to take a project originally created in one language and recreate it using an entirely different language. Doing so I was able to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices, all while managing the trade-offs involved in design choices. By restructuring the hash function I originally used and adding additional features such as a password “salt” I showcased a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.</p>
-<p>   The second project I chose to showcase was the animal shelter database used in CS-340. This database was originally created to help a fictional animal shelter visualize the animals they had within their shelters as well as the various attributes associated with those animals. I utilized the same animal data and instead of using the original Python and Python web frameworks, created a full stack web app using the MERN stack. I hosted the final project using the Heroku Paas so that a live version is available to demonstrate. This project enhancement allowed me to demonstrate my ability to use well-founded and innovative techniques, skills, and tools for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.</p>
+<p>   The second project I chose to showcase was the animal shelter database used in CS-340. This database was originally created to help a fictional animal shelter visualize the animals they had within their shelters as well as the various attributes associated with those animals. I utilized the same animal data and instead of using the original Python and Python web frameworks, created a full stack web app using the MERN stack. I hosted the final project using the Heroku PaaS so that a live version is available to demonstrate. This project enhancement allowed me to demonstrate my ability to use well-founded and innovative techniques, skills, and tools for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.</p>
 
 ### **Video Code Review**
+
+The below code review shows that I have the ability to use interaction to create code-reviews, as well as the ability to understand code reviews both individually and within a team environment. The code review also demonstrates my ability to provide contextual in-code comments that are eaisly readable and understandable and allow others to not only understand my thought process but also follow the logical flow and order of operations present within the code.The code review demonstrates my ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
 <a href="/videos/CS-499.mov" download>Download My Code Review</a>
 
@@ -33,7 +35,7 @@ During my coursework I was also brought onto a project with my current employer 
 
 4. **Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?**
 
-   I feel the biggest thing I learned while working on the enhancements for this artifact are that stepping away from a project for a long enough time frame can drastically improve your understanding of the core problems. For example, with this artifact having been originally created over a year ago I can look back on it now with a new perspective and see things that I may have missed or even implemented but did so incorrectly. I also can see where my commenting needs work as some things were unclear to me even as the person that originally wrote the code.  A good example of this is the UserInfo class from the original project basically only being used for getters and setters of some basic information
+   I feel the biggest thing I learned while working on the enhancements for this artifact are that stepping away from a project for a long enough time frame can drastically improve your understanding of the core problems. For example, with this artifact having been originally created over a year ago I can look back on it now with a new perspective and see things that I may have missed or even implemented but did so incorrectly. I also can see where my commenting needs work as some things were unclear to me even as the person that originally wrote the code.  A good example of this is the UserInfo class from the original project basically only being used for getters and setters of some basic information instead of housing other methods or functions appropriate to the class. This artifact helps to demonstrate my ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
    ```java
       public class UserInfo {
@@ -184,7 +186,7 @@ During my coursework I was also brought onto a project with my current employer 
 
 4. **Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?**
 
-   I feel the biggest challenge to overcome with this enhancement was altering the hash function. Although it wasn’t too difficult, I feel that it provided the most benefit and so I wanted to make sure I implemented it correctly. I feel that improving the hash function and utilizing the inclusion of a salt parameter make immense increases as far as file security.  You can see the basics of this function in the userInfo class below. 
+   I feel the biggest challenge to overcome with this enhancement was altering the hash function. Although it wasn’t too difficult, I feel that it provided the most benefit and so I wanted to make sure I implemented it correctly. I feel that improving the hash function and utilizing the inclusion of a salt parameter make immense increases as far as file security.  You can see the basics of this function in the userInfo class below. The use of JSON and the hash functionality show both my ability to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices as well as develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
    
    ```python
       class userInfo:
@@ -203,9 +205,9 @@ During my coursework I was also brought onto a project with my current employer 
             self.hashedPassword = result.hexdigest()
    ```
    
-    Converting the text file to a JSON file and altering the code to perform CRUD operations on that JSON file instead wasn’t too difficult. .
+    Converting the text file to a JSON file and altering the code to perform CRUD operations on that JSON file instead wasn’t too difficult. 
 
-   (Text file that would be parsed for credential information)
+   Text file that would previously be parsed for credential information
    ```
    griffin.keyes	108de81c31bf9c622f76876b74e9285f	"alphabet soup"	zookeeper
    rosario.dawson	3e34baa4ee2ff767af8c120a496742b5	"animal doctor"	admin
@@ -216,7 +218,8 @@ During my coursework I was also brought onto a project with my current employer 
 
    ```
 
-   (New JSON formatted file that contains credential information as objects)
+   New JSON formatted file that contains credential information as objects, password strings only included for testing and demonstration purposes.  The final JSON file would only include the hashed password. 
+   
    ```json
 
       {
