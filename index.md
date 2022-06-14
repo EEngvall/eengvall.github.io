@@ -64,7 +64,7 @@ During my coursework I was also brought onto a project with my current employer 
 
    Where as the UserInfo class in the enhanced Python project now has many additional functions that allow for more manipulation of data as well as better use of the principles of OOP. 
 
-   ```Python
+   ```python
 
    from pprint import pprint
    import json
