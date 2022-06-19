@@ -15,6 +15,18 @@ The below code review shows that I have the ability to use interaction to create
 
 <a href="/videos/CS-499.mov" download>Download My Code Review</a>
 
+## **Course Outcomes:**
+
+I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science by taking the original webpage in my third artifact and opting to use a different full stack approach.  I chose to use the MERN stack in combination with Heroku to host the live webpage. 
+   
+I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by completing both a code review in video form, as well as appropriately commenting and documenting all three enhancements.  Communication is key when not only working on a project with fellow collaborators but also when coming back to your own project after an extended period of time and trying to pick up where you left off.  Proper commenting allows us to not get confused by the prior code or code structure. 
+
+I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices by completing the enhancements in artifacts 1 & 2.  By choosing a more robust and flexible data structure to house my user information I was able to solve prior problems inherent in the previous storage method. I was also able to incorporate a better hash function as well as utilize an accompanying salt component to increase overall security.
+
+I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by completing all three enhancements.  I was also able to accomplish this by utilizing many of the functions of Git throughout the process.  Git itself it widely used in the industry today and having a concrete knowledge of the inner workings will allow me to be successful on any team I’m placed in.  All three enhancements utilized Git as a means of project version control allowing me to work on multiple enhancements across multiple computers and environments without creating any chaos or confusion. 
+
+I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by redesigning my second artifact to allow for a better controlled data structure in the form of a JSON object instead of a plain text file, as well as utilizing a better hash algorithm and incorporating a salt component to add extra security to the password storage.  
+
 
 
 ### **Artifact 1: Software Design and Engineering**
@@ -358,3 +370,6 @@ The below code review shows that I have the ability to use interaction to create
       });
 
     ```
+
+
+
