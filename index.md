@@ -33,7 +33,10 @@ I developed a security mindset that anticipates adversarial exploits in software
 
 <a href="https://github.com/EEngvall/Python-Auth-System">Github Repo - Artifacts 1&2</a>
 
-<a href="/Python-Auth-System-master.zip" download>Download Artifact</a>
+<a href="Enhancements 1 and 2.zip" download>Download Enhanced Artifact</a>
+
+<a href="Original Artifacts 1 and 2.zip" download>Download Original Artifact</a>
+
 
 
 1. **Briefly describe the artifact. What is it? When was it created?**
@@ -186,7 +189,9 @@ I developed a security mindset that anticipates adversarial exploits in software
 
 <a href="https://github.com/EEngvall/Python-Auth-System">Github Repo - Artifacts 1&2</a>
 
-<a href="/Python-Auth-System-master.zip" download>Download Artifact</a>
+<a href="Enhancements 1 and 2.zip" download>Download Enhanced Artifact</a>
+
+<a href="Original Artifacts 1 and 2.zip" download>Download Original Artifact</a>
 
 
 
@@ -296,7 +301,10 @@ I developed a security mindset that anticipates adversarial exploits in software
 
 <a href="https://glacial-anchorage-77889.herokuapp.com/">Live Version - Artifact 3</a>
 
-<a href="/rescue-app-master.zip" download>Download Artifact</a>
+<a href="Enhancement 3.zip" download>Download Enhanced Artifact</a>
+
+<a href="Original Artifact 3.zip" download>Download Original Artifact</a>
+
 
 
 
